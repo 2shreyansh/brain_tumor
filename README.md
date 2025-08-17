@@ -8,4 +8,4 @@ Brain tumors can be life-threatening and early detection is crucial. This projec
 
 - **Accuracy**: Achieved ~88.6% training and ~82.4% validation accuracy (can be improved further)
 - **Data**: MRI Brain Tumor Image Dataset (from Kaggle or local dataset)
-- **Tools**: TensorFlow, Keras, OpenCV, NumPy, Matplotlib
+- **Tools**: TensorFlow, Keras, NumPy, Matplotlib
